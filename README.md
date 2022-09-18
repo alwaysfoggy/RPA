@@ -1,7 +1,7 @@
 # RPA #
 
 ## About ##
-Corresponding code to the paper "Enhancing the transferability of adversarial examples with ramdom patch" (IJCAI 2022).
+Corresponding code to the paper "[Enhancing the transferability of adversarial examples with ramdom patch](https://www.ijcai.org/proceedings/2022/0233.pdf)" (IJCAI 2022).
 
 
 ## Quick Start ##
@@ -34,6 +34,7 @@ Code refers to [FIA](https://github.com/hcguoO0/FIA)
   title={Enhancing the transferability of adversarial examples with ramdom patch},
   author={Zhang, Yaoyuan and Tan, Yu-an and Chen, Tian and Liu, Xinrui and Zhang, Quanxin and Li, Yuanzhang},
   booktitle={IJCAI},
+  pages={1672-1678},
   year={2022}
   }
 ```
